@@ -15,7 +15,7 @@
 /* ===============================================================
 Basic Swiper Styles 
 ================================================================*/
-.xswiper-container {
+.swiper-container {
 	margin:0 auto;
 	position:relative;
 	overflow:hidden;
